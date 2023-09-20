@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="5RxPD-kEwihVW2il_p91" name="Page-1">
+        <mxGraphModel dx="1105" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="TEMPAT DUDUK KAWWAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="355" y="40" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="CODE :&lt;br&gt;&lt;br&gt;&lt;div&gt;#include &amp;lt;iostream&amp;gt;&lt;/div&gt;&lt;div&gt;using namespace std;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;int main() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; string x[12];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cin &amp;gt;&amp;gt; x[0] &amp;gt;&amp;gt; x[1] &amp;gt;&amp;gt; x [2];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cin &amp;gt;&amp;gt; x[3] &amp;gt;&amp;gt; x[4] &amp;gt;&amp;gt; x [5];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cin &amp;gt;&amp;gt; x[6] &amp;gt;&amp;gt; x[7] &amp;gt;&amp;gt; x [8];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cin &amp;gt;&amp;gt; x[9] &amp;gt;&amp;gt; x[10] &amp;gt;&amp;gt; x [11];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; x[0] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[3] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[6] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[9] &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; x[1] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[4] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[7] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[10] &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; x[2] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[5] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[8] &amp;lt;&amp;lt; &quot; &quot; &amp;lt;&amp;lt; x[11] &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return 0;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;};&lt;/span&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="205" y="140" width="440" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="OUTPUT :&lt;br&gt;&lt;br&gt;&lt;div&gt;Andi Dimas Gilang Koko&lt;/div&gt;&lt;div&gt;Budi Eko Hafiz Lia&lt;/div&gt;&lt;div&gt;Cecep Ferdi Ijal Mamat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="308" y="510" width="235" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

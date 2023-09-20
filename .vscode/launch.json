@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/DDP-D3-MI",
-      "program": "c:/Users/HP/DDP-D3-MI/build/Debug/outDebug",
+      "cwd": "d:/DDP-MI-23",
+      "program": "d:/DDP-MI-23/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

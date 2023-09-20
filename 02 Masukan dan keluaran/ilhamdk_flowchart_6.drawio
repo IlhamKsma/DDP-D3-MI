@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="xPBIY5cAGtGUh8n6RGjQ" name="Page-1">
+        <mxGraphModel dx="1105" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="PERMEN BUAT KAWAN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="348" y="40" width="155" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="CODE :&lt;br&gt;&lt;br&gt;&lt;div&gt;#include &amp;lt;iostream&amp;gt;&lt;/div&gt;&lt;div&gt;using namespace std;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;int main() {&lt;/div&gt;&lt;div&gt;int a, b;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cin &amp;gt;&amp;gt; a &amp;gt;&amp;gt; b;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; int pembagian = a / b;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; int sisa_bagi = a % b;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; &quot;masing-masing &quot;&amp;lt;&amp;lt;pembagian&amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; cout &amp;lt;&amp;lt; &quot;bersisa &quot;&amp;lt;&amp;lt;sisa_bagi&amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return 0;&lt;/div&gt;&lt;div&gt;};&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="298" y="140" width="254" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="OUTPUT :&lt;br&gt;&lt;br&gt;&lt;div&gt;masing-masing 10&lt;/div&gt;&lt;div&gt;bersisa 0&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="348" y="460" width="155" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

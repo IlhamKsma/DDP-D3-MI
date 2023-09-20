@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="hYxB_7G4r_EKrVfSzLWK" name="Page-1">
+        <mxGraphModel dx="1105" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="KALKULATOR USER FRIENDLY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="40" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="CODE :&lt;br&gt;&lt;br&gt;&lt;div&gt;#include &amp;lt;iostream&amp;gt;&lt;/div&gt;&lt;div&gt;using namespace std;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;int main() {&lt;/div&gt;&lt;div&gt;float a, b;&lt;/div&gt;&lt;div&gt;cin &amp;gt;&amp;gt; a &amp;gt;&amp;gt; b;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; &quot;Hasil dari Penjumlahan &quot; &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &quot; dengan &quot; &amp;lt;&amp;lt; b &amp;lt;&amp;lt; &quot; adalah &quot;;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; a + b &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; &quot;Hasil dari Pengurangan &quot; &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &quot; dengan &quot; &amp;lt;&amp;lt; b &amp;lt;&amp;lt; &quot; adalah &quot;;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; a - b &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; &quot;Hasil dari Perkalian &quot; &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &quot; dengan &quot; &amp;lt;&amp;lt; b &amp;lt;&amp;lt; &quot; adalah &quot;;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; a * b &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; &quot;Hasil dari Pembagian &quot; &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &quot; dengan &quot; &amp;lt;&amp;lt; b &amp;lt;&amp;lt; &quot; adalah &quot;;&lt;/div&gt;&lt;div&gt;cout &amp;lt;&amp;lt; a / b &amp;lt;&amp;lt; endl;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return 0;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="130" width="480" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="OUTPUT :&lt;br&gt;&lt;br&gt;&lt;div&gt;Hasil dari Penjumlahan 7 dengan 10 adalah 17&lt;/div&gt;&lt;div&gt;Hasil dari Pengurangan 7 dengan 10 adalah -3&lt;/div&gt;&lt;div&gt;Hasil dari Perkalian 7 dengan 10 adalah 70&lt;/div&gt;&lt;div&gt;Hasil dari Pembagian 7 dengan 10 adalah 0.7&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="225" y="495" width="350" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
