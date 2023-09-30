@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DDP-MI-23",
-      "program": "d:/DDP-MI-23/build/Debug/outDebug",
+      "cwd": "d:/DDP-MI-23/03 Percabangan",
+      "program": "d:/DDP-MI-23/03 Percabangan/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
