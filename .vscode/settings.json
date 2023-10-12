@@ -59,5 +59,6 @@
     "vector": "cpp",
     "iostream": "cpp",
     "cstdio": "cpp"
-  }
+  },
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
